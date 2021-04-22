@@ -1,0 +1,59 @@
+# Lista 2
+
+
+---
+
+## Exercício 1
+
+Usando as funções `seq()` e `rep()`, crie vetores contendo os seguintes elementos:
+
+### função `seq()`
+
+- item a: números de 1 a 10
+- item b: números pares de 2 a 21
+- item c: meios aritméticos entre  4 e 51
+
+```{r}
+
+```
+
+
+### função `rep()`
+
+- item d: 10 vezes o número 4
+- item e: 5 vezes a palavra 'estatística'
+- item f: as letras 'a', 'b' e 'c', 5 vezes cada
+- item g: as letras 'a', 'b' e 'c', 5 vezes cada e intercaladas
+
+```{r}
+
+```
+
+
+---
+
+## Exercício 2
+
+Crie um data frame com 20 observações e as seguintes colunas:
+
+- turma: 10 letras 'a' e 10 letras 'b'
+- nota: 10 primeiros valores com uma sequência de 1 a 10 e os demais preenchidos com o vetor (6,7,5) 
+
+em seguida, calcule as medidas principais de cada turma.
+
+```{r}
+
+```
+
+
+---
+
+## Exercício 3
+
+Considerando o vetor `(1,5,2,8,3,7)`, utilize as seguintes funções: `sort()`, `order()`, `rank()`. Qual a diferença entre elas?
+
+
+```{r}
+
+```
+
